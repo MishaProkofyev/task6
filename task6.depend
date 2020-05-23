@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590248808 source:f:\2_semestr\task6\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
